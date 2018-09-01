@@ -1,7 +1,6 @@
 
 ![Alt text](example.PNG)
 
-
 ####Research Intent
 
 We aimed to answer a series of questions related to Trump’s impact on market indexes. Firstly, is there a

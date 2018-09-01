@@ -2,8 +2,6 @@
 ![Alt text](example.PNG)
 
 
-Created by: Andrew Vallaster, Omar Salemohamed, and Yasoob Rasheed
-
 ####Research Intent
 
 We aimed to answer a series of questions related to Trump’s impact on market indexes. Firstly, is there a

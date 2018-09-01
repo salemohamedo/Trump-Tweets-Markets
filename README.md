@@ -1,14 +1,14 @@
 
 ![Alt text](example.PNG)
 
-####Research Intent
+#### Research Intent
 
 We aimed to answer a series of questions related to Trump’s impact on market indexes. Firstly, is there a
 noticeable trend regarding how market prices have changed since Trump took office, and if so, how have they
 changed? Also, can variations in prices be clearly attributed to the subject/nature of Trump’s tweets? Finally, do
 markets respond differently to Trump’s tweets, and if so, which ones seem to be the most receptive?
 
-####How our Visualization Works
+#### How our Visualization Works
 
 
 * Search for tweets to find the associated prices for a given index on the days the tweets were made. This
